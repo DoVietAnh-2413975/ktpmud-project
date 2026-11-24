@@ -110,8 +110,7 @@ Chỉ `git add` thư mục của nhóm mình — không sửa file nào khác c�
 - Nếu PR hiện *"Workflow awaiting approval"*: tài khoản GitHub còn mới, chờ giảng viên bấm duyệt
   một lần.
 - Giảng viên góp ý bằng bình luận trên PR; góp ý tổng hợp lưu ở `feedback/<thư mục nhóm>.md`.
-- Khi giảng viên **approve**, PR được merge vào `main`. Sau khi merge **không sửa qua PR thường
-  được nữa** — tuần sau nộp tiếp bằng PR mới (thêm file mới, ví dụ `report/BaoCao_Tuan8.docx`).
+- Khi giảng viên **approve**, PR được merge vào `main`. Sau khi merge, không sửa thêm trên PR đó nữa — tuần sau nộp tiếp bằng **PR mới** (thêm file mới, ví dụ `report/BaoCao_Tuan8.docx`).
 
 ## 5. Lỗi hay gặp
 
